@@ -1,3 +1,4 @@
 Den ca con khi cung hieu duoc lenh git
 Da thay doi trong index
 file duoc chuyen toi local
+--commit: Lưu lại trạng thái của index
