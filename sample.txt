@@ -1,5 +1,13 @@
 Den ca con khi cung hieu duoc lenh git
 Da thay doi trong index
 file duoc chuyen toi local
+<<<<<<< HEAD
 change 2
+=======
+change 1
+<<<<<<< HEAD
+--commit: Lưu lại trạng thái của index
+=======
+>>>>>>> 8610342e758c2bf053b345d850b9ed584c0ed4e1
 ---Repository 2
+>>>>>>> aada7a9f694a8411e27874a89a5330555ffb11a3
